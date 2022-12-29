@@ -1,0 +1,188 @@
+{
+  "sections": {
+    "1646977102770afe61": {
+      "type": "home-image-banner",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/Build_A_Box_Page_Banner_1_5cd0eceb-a13d-4d4f-a780-9332250f2693.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mob_Build_A_Box_Page.png",
+        "banner_link": ""
+      }
+    },
+    "16469766835f7b53d7": {
+      "type": "flexi-box-landing-page",
+      "blocks": {
+        "62461c67-88ed-47ff-a084-5dde1820f933": {
+          "type": "block",
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/1_5-Offer.jpg",
+            "img_align": false,
+            "title": "My Self Love Kit",
+            "text": "Glow, exfoliate and smell great by using our bestseller products. Get 6 products at just Rs.999\/-",
+            "btn_link": "shopify:\/\/products\/self-love-kit",
+            "btn_text": "Buy Now",
+            "text_align_center": false,
+            "text_align_right": false
+          }
+        },
+        "8be465d5-3aad-4774-999d-6a3737911027": {
+          "type": "block",
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/BVL-Perfume-POP-Up-Banner-_1200-x-799.jpg",
+            "img_align": true,
+            "title": "Ultimate Perfume Box",
+            "text": "A unique box for all. Take advantage of Bella Vita Organic’s luxury perfume box by selecting a perfume from each category of perfumes for men, women and unisex fragrances. Enjoy the big savings and a versatile collection suitable for everyone.",
+            "btn_link": "shopify:\/\/products\/upb-ultimate-perfume-box",
+            "btn_text": "buy now",
+            "text_align_center": true,
+            "text_align_right": true
+          }
+        },
+        "e364bb73-b535-4e68-82e5-2573be7b8f0b": {
+          "type": "block",
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/3-Deo-Banner-_-1200-x-799.jpg",
+            "img_align": false,
+            "title": "Ultimate Deo Box",
+            "text": "Now get any 3 Body Parfums for JUST 499\/-",
+            "btn_link": "shopify:\/\/products\/ultimate-deo-box",
+            "btn_text": "Buy Now",
+            "text_align_center": false,
+            "text_align_right": false
+          }
+        },
+        "151856c4-2cfa-4d0f-acb1-f5d66ef704e1": {
+          "type": "block",
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/Gifting-Hero-Banner-1200x799.jpg",
+            "img_align": true,
+            "title": "Personalised Gift Box",
+            "text": "Now build your personalised GIFT BOX with ANY 4 Bella Vita Products of your choice along with a free gift box and gift card! Just @ Rs. 999\/-",
+            "btn_link": "shopify:\/\/products\/personalized-gift-box",
+            "btn_text": "buy now",
+            "text_align_center": false,
+            "text_align_right": true
+          }
+        },
+        "2bada498-b374-44df-8d4a-5f9c26aec98c": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/1200-799_2.jpg",
+            "img_align": true,
+            "title": "complete care box",
+            "text": "Enjoy a mix of Bella Vita Organic’s natural ayurveda skin and hair care range at a highly affordable price with this versatile beauty box. Choose from a wide range of face washes, skin care, hair care, body care and scrubs. Build your box and say hi to healthy skin and gorgeous hair.",
+            "btn_link": "shopify:\/\/products\/ccb-complete-care-box",
+            "btn_text": "buy now",
+            "text_align_center": false,
+            "text_align_right": true
+          }
+        },
+        "27cf52ca-1ce2-4967-8e34-ae7ceeed3b61": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/1200-799_4416f4f8-0daa-4128-b1d0-af522381988e.jpg",
+            "img_align": true,
+            "title": "the face care box",
+            "text": "Now build your custom FLEXI BOX with ANY 4 Bella Vita Organic Products of your choice! Forget the hassle of restricting your options and go crazy to pick anything you like. Build yourself a box that completes your entire beauty regime.",
+            "btn_link": "shopify:\/\/collections\/the-face-care-box",
+            "btn_text": "buy now",
+            "text_align_center": false,
+            "text_align_right": true
+          }
+        },
+        "ce638c29-cbac-48ee-98e3-f8faa0eb03d1": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/1200-799_8.jpg",
+            "img_align": false,
+            "title": "the summer box",
+            "text": "Beat the heat with Bella Vita Organic's ultimate summer box. Buy a collection of 5 natural ayurveda products that are the perfect for your skin and body care during the hot months. Select from a variety of options and enjoy your savings.",
+            "btn_link": "shopify:\/\/collections\/the-summer-box",
+            "btn_text": "buy now",
+            "text_align_center": false,
+            "text_align_right": false
+          }
+        },
+        "ab72eb02-25b7-4fd8-bc50-62463727ed1b": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/1200-799_9.jpg",
+            "img_align": true,
+            "title": "the essential oil box",
+            "text": "Purify, cleanse, calm, & intensify your surroundings with Pure Essential Oils by Bella Vita Organic. Bring home the goodness of natural plants & flowers that enhance your health, beauty, aura & chakras. Choose your favourites from a variety of oils and Build A Box that you love!",
+            "btn_link": "shopify:\/\/collections\/the-essential-oil-box",
+            "btn_text": "buy now",
+            "text_align_center": false,
+            "text_align_right": true
+          }
+        },
+        "c5e12905-006a-4f3a-86ae-3ec9e45ac8a2": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/1200-799_3e6fac63-41f4-46e3-bceb-367a6dce3cc4.jpg",
+            "img_align": false,
+            "title": "Tinty box",
+            "text": "Office meetings, parties, dates, wherever it is, go with natural payoff of pretty colour lush on your lips, cheeks, and eyelids every day, every time with your Colourlicious -MTV Box.",
+            "btn_link": "shopify:\/\/collections\/tinty",
+            "btn_text": "buy now",
+            "text_align_center": false,
+            "text_align_right": false
+          }
+        },
+        "4af23c0e-5a12-4014-a418-975e66bc7c0d": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/1200-799_13.jpg",
+            "img_align": false,
+            "title": "winter care box",
+            "text": "Now build your custom FLEXI BOX with ANY 4 Bella Vita Organic Products of your choice! Forget the hassle of restricting your options and go crazy to pick anything you like. Build yourself a box that completes your entire beauty regime.",
+            "btn_link": "shopify:\/\/collections\/winter-care-box",
+            "btn_text": "buy now",
+            "text_align_center": false,
+            "text_align_right": false
+          }
+        },
+        "a9c42de2-6ef9-4c70-bd2a-6c7738e14c44": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "image_block": "shopify:\/\/shop_images\/1200-799_615d64ad-b643-4502-b64c-d0a16ed7cbf5.jpg",
+            "img_align": true,
+            "title": "monsoon care box",
+            "text": "Office meetings, parties, dates, wherever it is, go with natural payoff of pretty colour lush on your lips, cheeks, and eyelids every day, every time with your Colourlicious -MTV Box.",
+            "btn_link": "shopify:\/\/collections\/monsoon-care-box-for-skin-face-and-body-care",
+            "btn_text": "buy now",
+            "text_align_center": false,
+            "text_align_right": true
+          }
+        }
+      },
+      "block_order": [
+        "62461c67-88ed-47ff-a084-5dde1820f933",
+        "8be465d5-3aad-4774-999d-6a3737911027",
+        "e364bb73-b535-4e68-82e5-2573be7b8f0b",
+        "151856c4-2cfa-4d0f-acb1-f5d66ef704e1",
+        "2bada498-b374-44df-8d4a-5f9c26aec98c",
+        "27cf52ca-1ce2-4967-8e34-ae7ceeed3b61",
+        "ce638c29-cbac-48ee-98e3-f8faa0eb03d1",
+        "ab72eb02-25b7-4fd8-bc50-62463727ed1b",
+        "c5e12905-006a-4f3a-86ae-3ec9e45ac8a2",
+        "4af23c0e-5a12-4014-a418-975e66bc7c0d",
+        "a9c42de2-6ef9-4c70-bd2a-6c7738e14c44"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1646977102770afe61",
+    "16469766835f7b53d7"
+  ]
+}
