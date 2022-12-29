@@ -8,9 +8,9 @@ Follow the followings steps into your Dawn theme code:
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
-2. Create a new section file flexi-box-product.liquid in the sections directory.
+2. Create a new section file flexi-box-multi-product.liquid in the sections directory.
 
-3. Paste the code from the flexi-box-product.liquid file.
+3. Paste the code from the flexi-box-multi-product.liquid file.
 
 4. Create a new product template in JSON format product.flexi-box-product.json in the templates directory.
 
@@ -23,13 +23,13 @@ Follow the followings steps into your Dawn theme code:
 
 7. Create a new manual/smart collection for Flexi Box item with a title (eg. Flexi Box Collection).
 
-8. Create a new asset file flexi-box.css in the assets directory.
+8. Create a new asset file flexi-box-multi.css in the assets directory.
 
-9. Paste the code from the flexi-box.css file.
+9. Paste the code from the flexi-box-multi.css file.
 
-10. Create a new asset file flexi-box.js in the assets directory.
+10. Create a new asset file flexi-box-multi.js in the assets directory.
 
-11. Paste the code from the flexi-box.js file.
+11. Paste the code from the flexi-box-multi.js file.
 
 12. Create a new liquid snippet file flexi-box-img-wrapper.liquid in the snippets directory.
 
